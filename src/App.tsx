@@ -78,7 +78,7 @@ function App() {
         <Chatbot language={language} darkMode={darkMode} />
         <footer className={`${darkMode ? 'bg-gray-900' : 'bg-gray-100'} py-8 mt-20`}>
           <div className="container mx-auto px-4 text-center">
-            <p className={darkMode ? 'text-gray-400' : 'text-gray-600'}>© 2025 Thomsoftdev All rights reserved.</p>
+            <p className={darkMode ? 'text-gray-400' : 'text-gray-600'}>© 2025 Thomsoftdev.</p>
           </div>
         </footer>
       </div>
