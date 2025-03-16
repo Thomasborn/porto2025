@@ -25,7 +25,7 @@ export default function AboutPage({ language, darkMode }: AboutPageProps) {
           "Maintained and managed 5+ Nginx and Apache servers in cloud environments",
           "Developed core ERP modules to streamline business processes",
           "Built authentication services and middleware to secure access across ERP clients",
-          "Developed backend services using Java and Golang, focusing on API integration"
+          "Developed backend services using Php and Golang, focusing on API integration"
         ]
       },
       projects: {
@@ -107,7 +107,7 @@ export default function AboutPage({ language, darkMode }: AboutPageProps) {
           "Memelihara dan mengelola 5+ server Nginx dan Apache di lingkungan cloud",
           "Mengembangkan modul ERP inti untuk merampingkan proses bisnis",
           "Membangun layanan otentikasi dan middleware untuk mengamankan akses di seluruh klien ERP",
-          "Mengembangkan layanan backend menggunakan Java dan Golang, berfokus pada integrasi API"
+          "Mengembangkan layanan backend menggunakan Php dan Golang, berfokus pada integrasi API"
         ]
       },
       projects: {
