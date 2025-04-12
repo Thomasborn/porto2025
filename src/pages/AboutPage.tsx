@@ -19,7 +19,7 @@ export default function AboutPage({ language, darkMode }: AboutPageProps) {
         years: "2+ Years in Tech Industry",
         companies: "Worked with 5+ Companies",
         certifications: "Multiple Professional Certifications",
-        description: "My journey spans roles as Software Developer, Backend Developer, Fullstack Developer, and QA across industries including banking, e-commerce, and IT services. I've collaborated with cross-functional teams and led data analysis and migration projects. My technical contributions have consistently delivered scalable and secure solutions.",
+        description: "My journey spans roles as Software Developer, Backend Developer, Fullstack Developer, and QA across industries including ERP, e-commerce, and IT services. I've collaborated with cross-functional teams and led data analysis and migration projects. My technical contributions have consistently delivered scalable and secure solutions.",
         achievements: [
           "Designed and developed application architecture ensuring scalability, performance, and security",
           "Maintained and managed 5+ Nginx and Apache servers in cloud environments",
@@ -223,7 +223,7 @@ export default function AboutPage({ language, darkMode }: AboutPageProps) {
                 <div className="absolute -inset-1 bg-gradient-to-r from-cyan-500 to-purple-500 rounded-lg blur opacity-50 group-hover:opacity-75 transition duration-1000"></div>
                 <div className={`relative rounded-lg overflow-hidden ${styles.imageContainerBg} p-4`}>
                   <img
-                    src="https://media.licdn.com/dms/image/v2/D5603AQFRyv2oupiAfA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1692603108910?e=1747267200&v=beta&t=UMramLKqlOxKb-w-sF1s-77mulMD4H5vl_aAV4QF2NI"
+                    src="images/Thomas.png"
                     alt="Profile"
                     className="rounded-lg w-full h-[400px] object-cover"
                   />
